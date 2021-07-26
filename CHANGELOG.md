@@ -1,5 +1,8 @@
 # Change log
 
+## 4.0.1
+* WebP support
+
 ## [4.0.0](https://github.com/Carrooi/Nette-ImagesManager/compare/3.1.1...4.0.0)
 * Try to create base directory automatically
 * Lock on Nette >= 2.4 and PHP >= 5.6
