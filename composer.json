@@ -1,6 +1,7 @@
 {
-	"name": "carrooi/images-manager",
+	"name": "miroslavtima/nette-imagesmanager",
 	"type": "library",
+	"version": "4.0.1",
 	"description": "Images manager for Nette framework",
 	"keywords": ["nette", "image", "manager", "storage", "source", "loader"],
 	"homepage": "https://github.com/Carrooi/Nette-ImagesManager/issues",
